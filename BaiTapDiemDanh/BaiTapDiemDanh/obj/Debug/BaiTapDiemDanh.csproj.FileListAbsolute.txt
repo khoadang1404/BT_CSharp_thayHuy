@@ -1,0 +1,8 @@
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BaiTapDiemDanh\BaiTapDiemDanh\bin\Debug\BaiTapDiemDanh.exe.config
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BaiTapDiemDanh\BaiTapDiemDanh\bin\Debug\BaiTapDiemDanh.exe
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BaiTapDiemDanh\BaiTapDiemDanh\bin\Debug\BaiTapDiemDanh.pdb
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BaiTapDiemDanh\BaiTapDiemDanh\obj\Debug\BaiTapDiemDanh.csproj.AssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BaiTapDiemDanh\BaiTapDiemDanh\obj\Debug\BaiTapDiemDanh.csproj.SuggestedBindingRedirects.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BaiTapDiemDanh\BaiTapDiemDanh\obj\Debug\BaiTapDiemDanh.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BaiTapDiemDanh\BaiTapDiemDanh\obj\Debug\BaiTapDiemDanh.exe
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BaiTapDiemDanh\BaiTapDiemDanh\obj\Debug\BaiTapDiemDanh.pdb
