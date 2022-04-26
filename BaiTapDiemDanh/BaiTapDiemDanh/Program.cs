@@ -8,13 +8,13 @@ namespace BaiTapDiemDanh
 {
     internal class Program
     {
-        public class Animal
+        public class Animal_171
         {
 
             //public double Weight;
             //public double Height;
 
-            public void Eat()
+            public void Eat_171()
             {
                 Console.WriteLine("đang ăn");
             }
@@ -23,18 +23,18 @@ namespace BaiTapDiemDanh
                 Console.WriteLine("đang phát ra tiếng kêu");
             }
         }
-        class Cat:Animal
+        class Cat:Animal_171
         {
-            public void Run()
+            public void Run_171()
             {
                 Console.WriteLine("Mèo đang chạ");
             }
-            Animal animal = new Animal();
+            Animal_171 animal = new Animal_171();
 
         }
-        class Bird:Animal
+        class Bird:Animal_171
         {
-            public void Fly()
+            public void Fly_171()
             {
                 Console.WriteLine("Chym đang bay");
             }
@@ -43,14 +43,14 @@ namespace BaiTapDiemDanh
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            Cat cat = new Cat();    
-            cat.Run();  
-            cat.Eat();
-            cat.MakeSound();
-            Bird bird = new Bird(); 
-            bird.Fly(); 
-            bird.Eat();
-            bird.MakeSound();
+            Cat cat_171 = new Cat();    
+            cat_171.Run_171();  
+            cat_171.Eat_171();
+            cat_171.MakeSound();
+            Bird bird_171 = new Bird(); 
+            bird_171.Fly_171(); 
+            bird_171.Eat_171();
+            bird_171.MakeSound();
             Console.ReadKey(); 
         }
     }
