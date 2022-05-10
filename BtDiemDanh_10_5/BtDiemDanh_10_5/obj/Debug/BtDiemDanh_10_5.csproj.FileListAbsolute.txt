@@ -1,0 +1,8 @@
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BtDiemDanh_10_5\BtDiemDanh_10_5\bin\Debug\BtDiemDanh_10_5.exe.config
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BtDiemDanh_10_5\BtDiemDanh_10_5\bin\Debug\BtDiemDanh_10_5.exe
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BtDiemDanh_10_5\BtDiemDanh_10_5\bin\Debug\BtDiemDanh_10_5.pdb
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BtDiemDanh_10_5\BtDiemDanh_10_5\obj\Debug\BtDiemDanh_10_5.csproj.AssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BtDiemDanh_10_5\BtDiemDanh_10_5\obj\Debug\BtDiemDanh_10_5.csproj.SuggestedBindingRedirects.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BtDiemDanh_10_5\BtDiemDanh_10_5\obj\Debug\BtDiemDanh_10_5.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BtDiemDanh_10_5\BtDiemDanh_10_5\obj\Debug\BtDiemDanh_10_5.exe
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\BtDiemDanh_10_5\BtDiemDanh_10_5\obj\Debug\BtDiemDanh_10_5.pdb
