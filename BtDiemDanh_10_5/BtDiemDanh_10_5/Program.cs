@@ -60,8 +60,7 @@ namespace BtDiemDanh_10_5
                 for (int k = i + 1; k <= 10; k++)
                 {
                     if (arr_171[i] < arr_171[k])
-                    {
-                        // Nếu arr[i] > arr[j] thì hoán đổi giá trị của arr[i] và arr[j]
+                    {           
                         int temp = arr_171[i];
                         arr_171[i] = arr_171[k];
                         arr_171[k] = temp;
