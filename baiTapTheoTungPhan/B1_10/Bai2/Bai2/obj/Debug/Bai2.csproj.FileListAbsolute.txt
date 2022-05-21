@@ -1,0 +1,6 @@
+D:\Ki2Nam3\lt_csharp\BTebook\Bai2\Bai2\bin\Debug\Bai2.exe.config
+D:\Ki2Nam3\lt_csharp\BTebook\Bai2\Bai2\bin\Debug\Bai2.exe
+D:\Ki2Nam3\lt_csharp\BTebook\Bai2\Bai2\bin\Debug\Bai2.pdb
+D:\Ki2Nam3\lt_csharp\BTebook\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BTebook\Bai2\Bai2\obj\Debug\Bai2.exe
+D:\Ki2Nam3\lt_csharp\BTebook\Bai2\Bai2\obj\Debug\Bai2.pdb

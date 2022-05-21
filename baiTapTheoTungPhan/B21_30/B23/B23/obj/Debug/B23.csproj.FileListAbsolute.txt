@@ -1,0 +1,7 @@
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B23\B23\bin\Debug\B23.exe.config
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B23\B23\bin\Debug\B23.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B23\B23\bin\Debug\B23.pdb
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B23\B23\obj\Debug\B23.csprojAssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B23\B23\obj\Debug\B23.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B23\B23\obj\Debug\B23.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B23\B23\obj\Debug\B23.pdb

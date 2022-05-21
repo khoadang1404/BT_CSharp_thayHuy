@@ -1,0 +1,7 @@
+D:\Ki2Nam3\lt_csharp\BTebook\B11_20\Bai13\Bai13\bin\Debug\Bai13.exe.config
+D:\Ki2Nam3\lt_csharp\BTebook\B11_20\Bai13\Bai13\bin\Debug\Bai13.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B11_20\Bai13\Bai13\bin\Debug\Bai13.pdb
+D:\Ki2Nam3\lt_csharp\BTebook\B11_20\Bai13\Bai13\obj\Debug\Bai13.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B11_20\Bai13\Bai13\obj\Debug\Bai13.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B11_20\Bai13\Bai13\obj\Debug\Bai13.pdb
+D:\Ki2Nam3\lt_csharp\BTebook\B11_20\Bai13\Bai13\obj\Debug\Bai13.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai8\Bai8\bin\Debug\Bai8.exe.config
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai8\Bai8\bin\Debug\Bai8.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai8\Bai8\bin\Debug\Bai8.pdb
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai8\Bai8\obj\Debug\Bai8.csprojAssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai8\Bai8\obj\Debug\Bai8.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai8\Bai8\obj\Debug\Bai8.pdb

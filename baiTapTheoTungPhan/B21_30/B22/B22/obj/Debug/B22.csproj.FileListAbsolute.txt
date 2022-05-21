@@ -1,0 +1,6 @@
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B22\B22\obj\Debug\B22.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B22\B22\bin\Debug\B22.exe.config
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B22\B22\bin\Debug\B22.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B22\B22\bin\Debug\B22.pdb
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B22\B22\obj\Debug\B22.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B21_30\B22\B22\obj\Debug\B22.pdb

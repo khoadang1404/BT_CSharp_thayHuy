@@ -1,0 +1,7 @@
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai9\Bai9\bin\Debug\Bai9.exe.config
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai9\Bai9\bin\Debug\Bai9.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai9\Bai9\bin\Debug\Bai9.pdb
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai9\Bai9\obj\Debug\Bai9.csprojAssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai9\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai9\Bai9\obj\Debug\Bai9.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B1_10\Bai9\Bai9\obj\Debug\Bai9.pdb

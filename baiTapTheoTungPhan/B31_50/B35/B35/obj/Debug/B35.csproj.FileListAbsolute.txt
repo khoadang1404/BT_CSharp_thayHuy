@@ -1,0 +1,7 @@
+D:\Ki2Nam3\lt_csharp\BTebook\B31_50\B35\B35\bin\Debug\B35.exe.config
+D:\Ki2Nam3\lt_csharp\BTebook\B31_50\B35\B35\bin\Debug\B35.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B31_50\B35\B35\bin\Debug\B35.pdb
+D:\Ki2Nam3\lt_csharp\BTebook\B31_50\B35\B35\obj\Debug\B35.csprojAssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B31_50\B35\B35\obj\Debug\B35.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BTebook\B31_50\B35\B35\obj\Debug\B35.exe
+D:\Ki2Nam3\lt_csharp\BTebook\B31_50\B35\B35\obj\Debug\B35.pdb
