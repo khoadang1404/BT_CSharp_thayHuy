@@ -1,0 +1,8 @@
+D:\Ki2Nam3\lt_csharp\btMang\B60\B60\bin\Debug\B60.exe.config
+D:\Ki2Nam3\lt_csharp\btMang\B60\B60\bin\Debug\B60.exe
+D:\Ki2Nam3\lt_csharp\btMang\B60\B60\bin\Debug\B60.pdb
+D:\Ki2Nam3\lt_csharp\btMang\B60\B60\obj\Debug\B60.csproj.AssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\btMang\B60\B60\obj\Debug\B60.csproj.SuggestedBindingRedirects.cache
+D:\Ki2Nam3\lt_csharp\btMang\B60\B60\obj\Debug\B60.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\btMang\B60\B60\obj\Debug\B60.exe
+D:\Ki2Nam3\lt_csharp\btMang\B60\B60\obj\Debug\B60.pdb
