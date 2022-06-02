@@ -1,0 +1,8 @@
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyBanVeMayBay\QLyBanVeMayBay\bin\Debug\QLyBanVeMayBay.exe.config
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyBanVeMayBay\QLyBanVeMayBay\bin\Debug\QLyBanVeMayBay.exe
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyBanVeMayBay\QLyBanVeMayBay\bin\Debug\QLyBanVeMayBay.pdb
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyBanVeMayBay\QLyBanVeMayBay\obj\Debug\QLyBanVeMayBay.csproj.AssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyBanVeMayBay\QLyBanVeMayBay\obj\Debug\QLyBanVeMayBay.csproj.SuggestedBindingRedirects.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyBanVeMayBay\QLyBanVeMayBay\obj\Debug\QLyBanVeMayBay.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyBanVeMayBay\QLyBanVeMayBay\obj\Debug\QLyBanVeMayBay.exe
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyBanVeMayBay\QLyBanVeMayBay\obj\Debug\QLyBanVeMayBay.pdb
