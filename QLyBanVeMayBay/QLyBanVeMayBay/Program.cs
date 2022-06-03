@@ -35,6 +35,8 @@ namespace QLyBanVeMayBay
         }
         public void nhapVe()
         {
+            Console.OutputEncoding = Encoding.UTF8;
+            Console.InputEncoding = Encoding.Unicode;
             Console.Write("\nNhập vào tên chuyến bay: ");
             tenchuyen = Console.ReadLine();
             Console.Write("Nhập vào ngày bay: ");
@@ -81,6 +83,8 @@ namespace QLyBanVeMayBay
         }
         public void nhap()
         {
+            Console.OutputEncoding = Encoding.UTF8;
+            Console.InputEncoding = Encoding.Unicode;
             Console.Write("Nhập vào tên khách hàng: ");
             ten = Console.ReadLine();
             Console.Write("Nhập giới tính: ");
@@ -122,6 +126,8 @@ namespace QLyBanVeMayBay
 
         public void nhapKhach()
         {
+            Console.OutputEncoding = Encoding.UTF8;
+            Console.InputEncoding = Encoding.Unicode;
             nhap();
             Console.Write("Nhập vào số lượng vé mà hành khách đã mua: ");
             soluong = Convert.ToInt32(Console.ReadLine());
@@ -140,7 +146,7 @@ namespace QLyBanVeMayBay
             Console.WriteLine("------------------------");
             Console.WriteLine("THÔNG TIN KHÁCH HÀNG: ");
             xuat();
-            Console.WriteLine("THÔNG TIN CHUYẾN BAY: ");
+            Console.WriteLine("\nTHÔNG TIN CHUYẾN BAY: ");
             for (int i = 0; i < soluong; i++)
             {
                 Vemaybay[i].xuatVe();
@@ -181,6 +187,7 @@ namespace QLyBanVeMayBay
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
+            Console.InputEncoding = Encoding.Unicode;
             int soLuongHK;
             Console.Write("Nhập vào số lượng hành khách: ");
             soLuongHK = Convert.ToInt32(Console.ReadLine());
