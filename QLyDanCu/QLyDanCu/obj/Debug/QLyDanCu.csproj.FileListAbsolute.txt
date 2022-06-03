@@ -1,0 +1,8 @@
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyDanCu\QLyDanCu\bin\Debug\QLyDanCu.exe.config
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyDanCu\QLyDanCu\bin\Debug\QLyDanCu.exe
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyDanCu\QLyDanCu\bin\Debug\QLyDanCu.pdb
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyDanCu\QLyDanCu\obj\Debug\QLyDanCu.csproj.AssemblyReference.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyDanCu\QLyDanCu\obj\Debug\QLyDanCu.csproj.SuggestedBindingRedirects.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyDanCu\QLyDanCu\obj\Debug\QLyDanCu.csproj.CoreCompileInputs.cache
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyDanCu\QLyDanCu\obj\Debug\QLyDanCu.exe
+D:\Ki2Nam3\lt_csharp\BT_CSharp_thayHuy\BT_CSharp_thayHuy\QLyDanCu\QLyDanCu\obj\Debug\QLyDanCu.pdb
